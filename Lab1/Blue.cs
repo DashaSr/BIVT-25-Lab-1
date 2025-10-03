@@ -28,9 +28,6 @@ namespace Lab1
             {
                 answer = true;
             }
-
-            // end
-
             return answer;
         }
         public bool Task3(int a, int b)
@@ -82,7 +79,7 @@ namespace Lab1
                 answer = 1;
             }
             answer = Math.Round(answer, 2);
-                return answer;
+            return answer;
         }
         public bool Task6(double circleS, double squareS)
         {
