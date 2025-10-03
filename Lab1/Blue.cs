@@ -39,7 +39,7 @@ namespace Lab1
                 answer = true;
             }
 
-            return answer;
+        return answer;
         }
         public double Task4(double d, double f, double g)
         {
@@ -60,7 +60,7 @@ namespace Lab1
             {
                 answer = g;
             }
-                return answer;
+        return answer;
         }
         public double Task5(double x)
         {
@@ -79,7 +79,7 @@ namespace Lab1
                 answer = 1;
             }
             answer = Math.Round(answer, 2);
-            return answer;
+        return answer;
         }
         public bool Task6(double circleS, double squareS)
         {
@@ -93,7 +93,7 @@ namespace Lab1
             {
                 answer = true;
             }
-            return answer;
+        return answer;
         }
 
         public double Task7(double d, double f)
@@ -136,3 +136,4 @@ namespace Lab1
         }
     }
 }
+
